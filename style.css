@@ -18,7 +18,7 @@ body {
     line-height: 100%;
     letter-spacing: 10%;
     position: relative;
-    top: 154px;
+    top: 84px;
     left: 149px;
 }
 
@@ -32,7 +32,7 @@ body {
     line-height: 100%;
     letter-spacing: 0%;
     position: absolute;
-    top: 187px;
+    top: 117px;
     left: 27px;
 }
 
@@ -43,8 +43,8 @@ body {
     line-height: normal;
     letter-spacing: 0%;
     width: 295px;
-    height: 60px;
-    top: 696px;
+    height: 80px;
+    top: 656px;
     left: 69px;
     position: absolute;
     text-align: center;
@@ -60,7 +60,7 @@ body {
     width: 89px;
     height: 30px;
     position: absolute;
-    top: 780px;
+    top: 740px;
     left: 170px;
 }
 
@@ -68,7 +68,7 @@ body {
     width: 120px;
     height: 279px;
     position: absolute;
-    top: 279px;
+    top: 219px;
     left: 24px;
 }
 
@@ -124,7 +124,7 @@ body {
     width: 136px;
     height: 348px;
     position: absolute;
-    top: 319px;
+    top: 259px;
     left: 147px;
 }
 
@@ -188,7 +188,7 @@ body {
     width: 120px;
     height: 279px;
     position: absolute;
-    top: 279px;
+    top: 219px;
     left: 286px;
 }
 
